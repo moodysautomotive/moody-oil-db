@@ -46088,5 +46088,15 @@
     "Oil": "5W-30",
     "Quarts": 4.5,
     "Notes": "Global engine-based factory spec"
-  }
+  },
+"2000|DODGE|STRATUS|2.0L": {
+  "Year": 2000,
+  "Make": "Dodge",
+  "Model": "Stratus",
+  "Engine": "2.0l",
+  "Engine Aliases": "2.ol",
+  "Oil": "5W-30",
+  "Quarts": 4.54,
+  "Notes": "Global engine-based factory spec"
+}
 }
