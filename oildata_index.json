@@ -46078,5 +46078,15 @@
     "Oil": "0W-20",
     "Quarts": 6,
     "Notes": "Global engine-based factory spec"
+  },
+  "2000|DODGE|NEON|2.0": {
+    "Year": 2000,
+    "Make": "Dodge",
+    "Model": "Neon",
+    "Engine": "2.0",
+    "Engine Aliases": "",
+    "Oil": "5W30",
+    "Quarts": 4.5,
+    "Notes": ""
   }
 }
