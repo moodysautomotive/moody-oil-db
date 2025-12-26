@@ -50048,5 +50048,17 @@
     "Oil": "5W-40",
     "Quarts": 6,
     "Notes": "Source: https://www.amsoil.com/lookup/auto-and-light-truck/2019/volkswagen/golf-sportwagen/1-8l-4-cyl-engine-code-cxba-9-turbo/ (Golf SportWagen; used as Golf baseline)"
-  }
+  },
+"2011|TOYOTA|COROLLA|2.4L": {
+  "Year": 2011,
+  "Make": "Toyota",
+  "Model": "Corolla",
+  "Engine": "2.4L",
+  "Engine Aliases": null,
+  "Oil": "0W-20",
+  "Quarts": 4.02,
+  "Notes": "Global engine-based factory spec"
+}
+
+
 }
