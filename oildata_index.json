@@ -46084,9 +46084,9 @@
     "Make": "Dodge",
     "Model": "Neon",
     "Engine": "2.0L",
-    "Engine Aliases": "",
+    "Engine Aliases": null,
     "Oil": "5W-30",
     "Quarts": 4.5,
-    "Notes": ""
+    "Notes": "Global engine-based factory spec"
   }
 }
