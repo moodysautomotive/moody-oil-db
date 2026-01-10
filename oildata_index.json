@@ -30178,9 +30178,10 @@
     "Make": "Chevrolet",
     "Model": "Equinox",
     "Engine": "3.6L",
-    "Engine Aliases": "3.6, 3.6L, V6, Pentastar",
-    "Oil": "5W-20",
+    "Engine Aliases": null,
+    "Oil": "5W-30",
     "Quarts": 6,
+    "Filter": "84502",
     "Notes": "Global engine-based factory spec"
   },
   "2023|CHEVROLET|EQUINOX|1.5T": {
